@@ -1,4 +1,4 @@
-```markdown
+
 # Project: SmartIndex: Automated Option Selling System for Indian Markets
 
 **Brief:** This repository contains algorithmic trading scripts, utilities and historical-data tools focused on Indian markets. It includes broker utilities (Zerodha integrations), historical data collection helpers, and example short-straddle strategies and risk-management utilities.
