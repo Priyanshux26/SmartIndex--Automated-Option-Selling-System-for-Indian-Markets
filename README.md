@@ -157,9 +157,3 @@ Contributing checklist:
 If you want an open-source license, consider adding a `LICENSE` (e.g., MIT). If you want, I can add a license file for you.
 
 ---
-
-## Contact / Support
-- For questions, open an issue in this repo.
-- Include logs, config (with sensitive fields redacted), and steps to reproduce when reporting issues.
-
-```
